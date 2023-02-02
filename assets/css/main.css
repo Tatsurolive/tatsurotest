@@ -1952,6 +1952,8 @@ button,
         border-bottom: 0;
         margin-bottom: 0;
         padding-bottom: 0; }
+	  #sidebar > .inner > section > header.major > :last-child {
+		border-bottom: solid 3px #ffffff; }
     #sidebar > .inner > .alt {
       background-color: #eff1f2;
       border-bottom: 0;
@@ -2200,6 +2202,8 @@ button,
     color: #fff6cc; }
 
 /* Menu */
+#menu header.major > :last-child {
+  border-bottom: solid 3px #ffffff; }
 #menu ul {
   -moz-user-select: none;
   -webkit-user-select: none;
