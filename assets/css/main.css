@@ -1424,9 +1424,9 @@ ul.pagination {
         background-color: #465fa1;
         color: #ffffff !important; }
         ul.pagination li > .page.active:hover {
-          background-color: #f67878; }
+          background-color: #cad2e8; }
         ul.pagination li > .page.active:active {
-          background-color: #f45c5c; }
+          background-color: #95a5d0; }
     ul.pagination li:first-child {
       padding-right: 0.75em; }
     ul.pagination li:last-child {
