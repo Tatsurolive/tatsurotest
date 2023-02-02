@@ -1899,7 +1899,7 @@ button,
     -webkit-transform: scaleX(-1);
     -ms-transform: scaleX(-1);
     transform: scaleX(-1);
-    color: #254789;
+    color: #465fa1;
     content: '\f002';
     cursor: default;
     display: block;
@@ -1929,7 +1929,7 @@ button,
   -ms-transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   transition: margin-left 0.5s ease, box-shadow 0.5s ease;
   color: #ffffff;
-  background-color: #254789;
+  background-color: #465fa1;
   font-size: 0.9em;
   position: relative;
   width: 26em; }
@@ -2077,7 +2077,7 @@ button,
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  border-bottom: solid 5px #254789;
+  border-bottom: solid 5px #465fa1;
   padding: 6em 0 1em 0;
   position: relative; }
   #header > * {
@@ -2260,7 +2260,7 @@ button,
   margin: 0.5em 0 0 0;
   padding: 0.5em 0 0 0; }
   #menu > ul > li > ul {
-    color: #254789;
+    color: #465fa1;
     display: none;
     margin: 0.5em 0 1.5em 0;
     padding-left: 1em; }
