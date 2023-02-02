@@ -1937,7 +1937,7 @@ button,
   width: 26em; }
   #sidebar h2 {
 	color: #ffffff;
-    font-size: 2em; }
+    font-size: 1.75em; }
   #sidebar > .inner {
     padding: 2.22222em 2.22222em 2.44444em 2.22222em ;
     position: relative;
@@ -2104,7 +2104,7 @@ button,
     #header {
       padding-top: 5em; }
       #header .logo {
-        font-size: 1.5em;
+        font-size: 1.25em;
         margin: 0; }
       #header .icons {
         height: 5em;
